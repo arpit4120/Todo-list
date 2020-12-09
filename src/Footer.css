@@ -1,0 +1,15 @@
+.footer {
+  bottom: 0%;
+  display: flex;
+  flex: 1;
+  justify-content: center;
+  margin: 0px;
+  padding: 10px 10px solid rgb(247, 224, 182);
+  background-color: rgb(167, 148, 167);
+  flex: 1;
+  flex-direction: row;
+  width: 100%;
+  border-radius: 15px;
+  position: fixed;
+  text-emphasis-color: rgb(247, 224, 16);
+}

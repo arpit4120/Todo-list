@@ -1,0 +1,15 @@
+.header {
+  align-self: centre;
+  margin: 0;
+  background-color: wheat;
+  height: 50px;
+  width: 96%;
+  justify-content: center;
+  display: flex;
+  border-color: black;
+  border-radius: 15px;
+  padding: 30px;
+  position: relative;
+  flex: 1;
+  flex-direction: row;
+}
